@@ -24,6 +24,8 @@ The only control in this mod is **sneaking** and **holding right click**, while 
 - While carrying something in-hand, place it back down against a block.
 - Or put what you're carrying on your back by instead not aiming at a block.
 - Grab what's on your back into your hands again.
+- Use **K** to disable interactions if they are interefering with your tasks.
+- Keys can be modified in the Controls window under Actions.
 
 Carrying something in-hand prevents you from using items and sprinting. Whether in your hands or on your back, you may be slowed down in general. The exact amount depends on the type of block, though. Additionally, placing takes a little less time (-25%) than picking up, and interacting with your back is quite a bit slower (+50%).
 
