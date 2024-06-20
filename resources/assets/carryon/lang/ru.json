@@ -1,0 +1,13 @@
+{
+	"blockhelp-pickup": "Нести",
+	"drop-notice": "Вы уронили {0} из своего {1}.",
+	"drop-notice-destroyed": "Вы уронили {0} из своего {1}, и он был уничтожен.",
+	"drop-notice-destroyed-spill-contents": "Вы уронили {0} из своего {1}, и он был уничтожен, рассыпав содержимое.",
+	"drop-notice-spill-contents": "Вы уронили {0} из {1}, и он раскрылся, рассыпав содержимое.",
+	"pickup-hotkey": "CarryOn - поднять / положить",
+	"slot-back": "назад",
+	"slot-hands": "руки",
+	"slot-shoulder": "плечо",
+	"swap-back-hotkey": "CarryOn - модификатор переключения на спину",
+	"toggle-hotkey": "CarryOn - Включить / Выключить взаимодействие"
+}
